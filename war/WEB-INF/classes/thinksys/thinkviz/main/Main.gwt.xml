@@ -1,0 +1,11 @@
+<module>
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+	<inherits name="com.gwtext.GwtExt"/>
+	<inherits name="com.gwtext.Charts"/>
+	<inherits name="com.google.gwt.i18n.I18N"/>
+	<entry-point class="thinksys.thinkviz.main.client.Main"/>
+	<stylesheet src="js/ext/resources/css/ext-all.css"/>
+	<script src="js/ext/adapter/ext/ext-base.js"/>
+	<script src="js/ext/ext-all.js"/>
+</module>

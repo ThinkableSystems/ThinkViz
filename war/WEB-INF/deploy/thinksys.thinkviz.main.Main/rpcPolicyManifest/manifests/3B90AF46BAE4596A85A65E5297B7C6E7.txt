@@ -1,0 +1,2 @@
+serviceClass: thinksys.thinkviz.main.client.SrvData
+path: ADAC8BAD1ED209A3B6E21A8D94C43785.gwt.rpc

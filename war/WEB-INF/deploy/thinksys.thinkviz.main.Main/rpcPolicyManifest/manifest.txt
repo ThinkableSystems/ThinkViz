@@ -1,0 +1,2 @@
+# Module thinksys.thinkviz.main.Main
+# RPC service class, partial path of RPC policy file
